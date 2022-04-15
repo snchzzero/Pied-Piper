@@ -1,0 +1,308 @@
+#arc0
+{
+    position: absolute; 
+    margin-top: -180px; 
+}
+#The_Problem
+{
+    position: absolute; 
+    margin-top: -82px; 
+}
+#Team1
+{
+    position: absolute; 
+    margin-top: -130px; 
+}
+
+#Introducing
+{
+    position: absolute; 
+    margin-top: -70px; 
+}
+
+.main
+{
+    position: fixed;
+    width: 100%;
+}
+
+.cont
+{
+    width: 1110px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.shapka1
+{
+    
+    margin-right: auto;
+    margin-left: auto;
+    /*max-width: 2011px;*/
+    top: 0px;
+    height: 84px;
+    background-color: #007765;
+    /* background-position: center center; */
+    background-size: cover;
+}
+
+.shapkaT
+{
+    /* border: 2px solid rgb(247, 0, 0); */
+    
+
+    text-align: right;
+    margin-left: auto;
+    padding-top: 8px;
+    margin-right: 0px;
+    padding-right: 55px;
+    font-family: 'Roboto', Courier, monospace;
+    font-size: 24px;    
+}
+
+.logo
+{
+    position: absolute; 
+    top: 0px;
+    /* border: 2px solid rgb(247, 0, 0);*/ 
+    margin-top: 20px;
+    margin-bottom: 18.96px;
+    margin-left: 4%;
+    /*border: 2px solid rgb(247, 11, 11); */
+}
+
+a
+{
+    color:white;
+}
+a:active
+{
+    color:yellow;
+}
+
+.cont1
+{
+    box-sizing: border-box;
+    max-width: 2011px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zagalovok
+{
+    padding-top: 150px;
+    padding-bottom: 90px;
+    background-size: cover;
+    background-position: center center;
+    background-image: url('img/image.png');
+    /*background-size: 2011px 403px;*/
+    /* border: 20px solid rgb(247, 247, 11); /* рамка */
+}
+
+.cont1 > .zagalovok > p
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 500; /* насколько жирный шрифт */
+    font-size: 72px; /* размер шрифта */
+    line-height: 84px;
+}
+
+.cont2
+{
+    padding-top: 1px;
+    box-sizing: border-box;
+    max-width: 2011px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(238, 238, 238,1);
+    background-size: cover;
+    align-content: center;
+
+
+    
+}
+
+.cont2 > h1
+{
+    text-align: center;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 500; /* насколько жирный шрифт */
+    font-size: 64px; /* размер шрифта */
+    color: #007765; 
+}
+.problem
+{
+    margin-left: auto; /* делаем текст посередине окна, с фиксированным размером ширины контейнера текста */
+    margin-right: auto;
+    padding-bottom: 50px;
+    width:1110px;
+    text-align: left;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 400; /* насколько жирный шрифт */
+    font-size: 28px; /* размер шрифта */
+    /* border: 20px solid rgb(247, 247, 11); */
+}
+
+.Blue
+{
+    
+    height: 483px;
+    background-image: url('img/image(1).png');
+    background-position: center center;
+    background-size: cover; 
+    max-width: 2011px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Blue > p
+{
+    width: 893px;
+    padding-top: 128px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 500; /* насколько жирный шрифт */
+    font-size: 48px; /* размер шрифта */
+    line-height: 56px;
+    color: #ffffff; 
+}
+
+.intro_main
+{
+    padding-top: 1px;
+    height: 604px;
+    max-width: 2011px;
+    background-color: #ffffff;
+    background-position: center center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.Intr
+{
+    /* border: 20px solid rgb(247, 247, 11); */
+    width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.intro_main > .Intr > h1
+{
+    padding-top: 48px;
+    line-height: 10px;
+    text-align: center;
+    color: #007765;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 500; /* насколько жирный шрифт */
+    font-size: 64px; /* размер шрифта */
+}
+
+.InLogo
+{
+    float: left;
+    margin-right: 50px;
+}
+
+.intro_main > .Intr >.abz
+{
+    margin-left: 30px;
+    text-align: left;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 400; /* насколько жирный шрифт */
+    font-size: 26px; /* размер шрифта */
+    line-height: 45px;
+}
+
+.intro_main > .Intr > p
+{
+    text-align: left;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 400; /* насколько жирный шрифт */
+    font-size: 26px; /* размер шрифта */
+    line-height: 45px;
+}
+
+.cont_TheTeam
+{
+    padding-top: 1px;
+    background-color: #EEEEEE;
+    background-size: cover;
+    background-position: center center;
+    max-width: 2011px;
+    height: 845px;
+}
+
+.Team
+{
+    width: 1219px;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 20px solid rgb(247, 247, 11); */
+}
+
+.cont_TheTeam > .Team > h2
+{
+    line-height: 75px;  
+    text-align: center;
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 500; /* насколько жирный шрифт */
+    font-size: 64px; /* размер шрифта */
+    color: #007765;
+}
+
+h3
+{
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 700; /* насколько жирный шрифт */
+    font-size: 20px; /* размер шрифта */
+    color: #007765;
+    line-height: 2px;
+}
+
+p1
+{
+    font-family: 'Roboto', Courier, monospace; 
+    font-weight: 400; /* насколько жирный шрифт */
+    font-size: 18px; /* размер шрифта */
+    color: #000000;
+    line-height: 2px;
+    
+}
+.lg1, .lg2, .lg3
+{
+    padding-bottom: 30px;
+}
+
+.Header
+{
+    padding-top: 1px;
+    max-width: 2011px;
+    height: 176px;
+    background-color: #333333;
+    background-position: center center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.Header > p
+{
+    padding-top: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 540px;
+    text-align: center;
+    font-family: 'Roboto', Courier, monospace;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+ 
+}
